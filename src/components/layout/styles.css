@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin:0;
+
+}
+.layout {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    padding: 20px;
+    background-color: violet;
+}
